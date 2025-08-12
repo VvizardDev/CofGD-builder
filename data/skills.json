@@ -1,0 +1,28 @@
+[
+  { "name": "Awareness", "category": "Mental" },
+  { "name": "Common Lore", "category": "Mental" },
+  { "name": "Forbidden Lore", "category": "Mental" },
+  { "name": "Investigation", "category": "Mental" },
+  { "name": "Medicae", "category": "Mental" },
+  { "name": "Scholastic Lore", "category": "Mental" },
+  { "name": "Tech-Use", "category": "Mental" },
+  { "name": "Trade", "category": "Mental" },
+
+  { "name": "Acrobatics", "category": "Physical" },
+  { "name": "Athletics", "category": "Physical" },
+  { "name": "Ballistic Skill", "category": "Physical" },
+  { "name": "Pilot", "category": "Physical" },
+  { "name": "Security", "category": "Physical" },
+  { "name": "Stealth", "category": "Physical" },
+  { "name": "Survival", "category": "Physical" },
+  { "name": "Weapon Skill", "category": "Physical" },
+
+  { "name": "Charm", "category": "Social" },
+  { "name": "Command", "category": "Social" },
+  { "name": "Commerce", "category": "Social" },
+  { "name": "Deceive", "category": "Social" },
+  { "name": "Inquiry", "category": "Social" },
+  { "name": "Intimidate", "category": "Social" },
+  { "name": "Performer", "category": "Social" },
+  { "name": "Wrangling", "category": "Social" }
+]
