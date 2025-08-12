@@ -1,0 +1,5 @@
+[
+  { "name": "Strength", "category": "Physical", "max": 5 },
+  { "name": "Fellowship", "category": "Social", "max": 5 },
+  { "name": "Intelligence", "category": "Mental", "max": 5 }
+]
