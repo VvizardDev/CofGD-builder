@@ -1,5 +1,11 @@
 [
-  { "name": "Strength", "category": "Physical", "max": 5 },
-  { "name": "Fellowship", "category": "Social", "max": 5 },
-  { "name": "Intelligence", "category": "Mental", "max": 5 }
+  { "name": "Intelligence", "category": "Mental" },
+  { "name": "Perception", "category": "Mental" },
+  { "name": "Willpower", "category": "Mental" },
+  { "name": "Strength", "category": "Physical" },
+  { "name": "Agility", "category": "Physical" },
+  { "name": "Toughness", "category": "Physical" },
+  { "name": "Fellowship", "category": "Social" },
+  { "name": "Manipulation", "category": "Social" },
+  { "name": "Composure", "category": "Social" }
 ]
