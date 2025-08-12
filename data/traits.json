@@ -1,0 +1,13 @@
+[
+  { "name": "Size", "type": "Static", "default": 5 },
+  { "name": "Speed", "type": "Derived", "formula": "Strength + Agility + 5" },
+  { "name": "Initiative Mod", "type": "Derived", "formula": "Agility + Composure" },
+  { "name": "Defense", "type": "Derived", "formula": "Lowest of Agility or Perception + Athletics" },
+  { "name": "Armor", "type": "Variable", "description": "Provided by equipment or powers." },
+  { "name": "Health", "type": "Derived", "formula": "Toughness + Size" },
+  { "name": "Willpower", "type": "Derived", "formula": "Willpower + Composure" },
+  { "name": "Beats", "type": "Progression", "description": "Track toward XP gain." },
+  { "name": "Experience", "type": "Progression", "description": "Used to purchase traits and powers." },
+  { "name": "Fate", "type": "Resource", "description": "Narrative currency for dramatic influence." },
+  { "name": "Corruption", "type": "Resource", "description": "Represents moral decay or supernatural taint." }
+]
